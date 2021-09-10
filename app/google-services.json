@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "910673064335",
+    "project_id": "samiratv-58283",
+    "storage_bucket": "samiratv-58283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910673064335:android:44f84c4ce00c56c2a8dbfa",
+        "android_client_info": {
+          "package_name": "com.ae.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910673064335-reasfjtp6rj85uvltj3a79upbl0i206m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ae.ecommerce",
+            "certificate_hash": "15fc64ef97e54499a1f6589987cdfe5b17e7b3ed"
+          }
+        },
+        {
+          "client_id": "910673064335-uk4c6spb1vn1vs2omlfnveqacndr4hq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ae.ecommerce",
+            "certificate_hash": "c6a551cafdb0bce894cba4e6047d9ecf7398461c"
+          }
+        },
+        {
+          "client_id": "910673064335-io964780b29l1c4kj9a2tdmsv52roa1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23boWEODLIWzN-aLsTg7ETDmcZONq1xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910673064335-io964780b29l1c4kj9a2tdmsv52roa1c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910673064335-gpgd3oaffntvp0s1vcfma9veg522fnfo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.samiratvapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
